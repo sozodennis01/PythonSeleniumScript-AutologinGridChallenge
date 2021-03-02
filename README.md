@@ -1,17 +1,16 @@
-# Internship-PythonSeleniumScript-AutologinGridChallenge
-## Python Selenium Script example
+# Internship Python Selenium Script: Auto-Login Grid Challenge
+## Auto login into a client's testing environment that had a tedious grid challenge.
 Made during QA Summer Internship 2020.
-Created for the Prometheus Group Quality Assurance Engineers.
-Auto login into a client's testing environment that had a tedious grid challenge.
+Created for Prometheus Group's Quality Assurance Engineers.
 ## SAMS Grid Card Example
-![SAMS Grid Card Example](https://auth.cdc.gov/siteminderagent/forms/images/newgridcard.jpg)  
-Example Challenge using Grid Card above: A1-J5-F3 | Answer: EXJ  
+![SAMS Grid Card Example](https://www.entrust.com/kbimages/soft_token30.jpg)  
+Example Challenge using Grid Card above: A4-H2-H5 | Answer: X45  
 A real login example is the CDC authentication page: [CDC SAMS Grid Card](https://auth.cdc.gov/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-2e4e428f-8768-4f65-a66d-911e49413d9e&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-VfBllSkkIKR6GkMEZgI2o6e2zk%2fxh2fc%2fe5E0N%2fN98H5LsZWkDhX%2fH618YU%2bV1pFG6Dqc8o%2buj7a7BOjbw3l3DbOwJLzWlX7IAOrlseiUBdD9DB45IS4xFtcl%2fRbqrug&TARGET=-SM-https%3a%2f%2fsams%2ecdc%2egov%2f).
 Its common for companies to have Multi-Factor Authentication methods. An *uncommon one for me* was a Grid Card! 
-Basically given a row & column, find the key value in the Grid card.
+Basically given a row & column, find the key value in the Grid card. 
 ## Situation
 For QA, I often had to login to a client's system to get their configs and test their bug/feature request tickets. 
-I had to login enough times to find the Grid challenge annoying. If it was annoying to me, it'll probably be annoying for someone else too.
+I had to login enough times to find the Grid challenge annoying (or maybe I was lazy?). I had to find the Grid card in the Teams directory, keep it open, use the brain to find the key, etc. If it was annoying to me, it'll probably be annoying for someone else too.
 ## Task
 Attempt to automate a tedious login process to increase testing productivity. All the team needed was Python, Selenium, and Chrome installed.
 ## Action
