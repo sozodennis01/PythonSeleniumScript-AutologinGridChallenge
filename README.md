@@ -17,7 +17,7 @@ Attempt to automate a tedious login process to increase testing productivity. Al
 ## Action
 1. Translate the Grid Card into a data structure (2D Array)
 2. Use Selenium to drive Chrome actions.
-3. Read HTMl code with Inspector to find key ID & classes for Selenium.
+3. Read HTML code with Inspector to find key ID & classes for Selenium.
 4. Grab the challenge string and clean it up.
 5. Create a function to find the key, based on the challenge.
 6. Submit the answer.
