@@ -3,7 +3,7 @@
 Made during QA Summer Internship 2020.
 Created for Prometheus Group's Quality Assurance Engineers.
 ## SAMS Grid Card Example
-![SAMS Grid Card Example](![image](https://github.com/user-attachments/assets/2d7f04c2-2e73-4188-985a-322316e67c52))  
+![image](https://github.com/user-attachments/assets/2d7f04c2-2e73-4188-985a-322316e67c52)
 Example Challenge using Grid Card above: A4-H2-H5 | Answer: X45  
 A real login example is the CDC authentication page: [CDC SAMS Grid Card](https://auth.cdc.gov/siteminderagent/forms/login.fcc?TYPE=33554433&REALMOID=06-2e4e428f-8768-4f65-a66d-911e49413d9e&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-VfBllSkkIKR6GkMEZgI2o6e2zk%2fxh2fc%2fe5E0N%2fN98H5LsZWkDhX%2fH618YU%2bV1pFG6Dqc8o%2buj7a7BOjbw3l3DbOwJLzWlX7IAOrlseiUBdD9DB45IS4xFtcl%2fRbqrug&TARGET=-SM-https%3a%2f%2fsams%2ecdc%2egov%2f).
 Its common for companies to have Multi-Factor Authentication methods. An *uncommon one for me* was a Grid Card! 
